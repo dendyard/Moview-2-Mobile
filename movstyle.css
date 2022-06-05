@@ -410,7 +410,7 @@ p.sut {
 .shrbttndetail {
   margin: 0px 0px 0px 0;
   /* width: 220px; */
-  height: 60px;
+  height: 31px;
   -webkit-border-radius: 100px;
   -moz-border-radius: 100px;
   border-radius: 100px;
@@ -454,7 +454,7 @@ p.sut {
   -webkit-line-clamp: 2;
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  height: 58px;
+  height: 75px;
   font-weight: 100;
   font-size: 13px;
 }
@@ -465,7 +465,7 @@ p.sut {
 }
 
 .cdecss {
-  height: 205px;
+  height: 225px;
 }
 img.shareico {
   width: 20px;
@@ -1064,9 +1064,9 @@ span.sharenow {
 .text-overflow {
 
   display: block;
-
   word-break: break-word;
   word-wrap: break-word;
+  font-size: 13px;
 
 }
 .btn-overflow {
